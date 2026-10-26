@@ -1,0 +1,169 @@
+[
+ {
+  "id": "6823482754",
+  "name": "Frosthold: Medieval Farm",
+  "platform": "IOS",
+  "state": "REJECTED",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6823482754_0.jpg",
+   "img/portfoy/6823482754_1.jpg",
+   "img/portfoy/6823482754_2.jpg"
+  ]
+ },
+ {
+  "id": "6823732903",
+  "name": "JustDisabled: Disabled Dating",
+  "platform": "IOS",
+  "state": "REJECTED",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6823732903_0.jpg",
+   "img/portfoy/6823732903_1.jpg",
+   "img/portfoy/6823732903_2.jpg"
+  ]
+ },
+ {
+  "id": "6824209509",
+  "name": "Satranç Efendileri",
+  "platform": "IOS",
+  "state": "REJECTED",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6824209509_0.jpg",
+   "img/portfoy/6824209509_1.jpg",
+   "img/portfoy/6824209509_2.jpg"
+  ]
+ },
+ {
+  "id": "6823204342",
+  "name": "EvStok: Ev Stok ve SKT Takibi",
+  "platform": "IOS",
+  "state": "REJECTED",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6823204342_0.jpg",
+   "img/portfoy/6823204342_1.jpg",
+   "img/portfoy/6823204342_2.jpg"
+  ]
+ },
+ {
+  "id": "6775195853",
+  "name": "Afyon İlan: Emlak ve Araç",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_65",
+  "files": [
+   "img/portfoy/6775195853_0.jpg",
+   "img/portfoy/6775195853_1.jpg",
+   "img/portfoy/6775195853_2.jpg"
+  ]
+ },
+ {
+  "id": "6771481942",
+  "name": "Aidat Takibi Pro",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_65",
+  "files": [
+   "img/portfoy/6771481942_0.jpg",
+   "img/portfoy/6771481942_1.jpg",
+   "img/portfoy/6771481942_2.jpg"
+  ]
+ },
+ {
+  "id": "6792582497",
+  "name": "Koçum Cepte: Sınav Koçluğu",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_65",
+  "files": [
+   "img/portfoy/6792582497_0.jpg",
+   "img/portfoy/6792582497_1.jpg",
+   "img/portfoy/6792582497_2.jpg"
+  ]
+ },
+ {
+  "id": "6806742802",
+  "name": "Cleaner Pro: Disk Cleaner",
+  "platform": "MAC_OS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_DESKTOP",
+  "files": [
+   "img/portfoy/6806742802_0.jpg",
+   "img/portfoy/6806742802_1.jpg",
+   "img/portfoy/6806742802_2.jpg"
+  ]
+ },
+ {
+  "id": "6787953046",
+  "name": "Edusoft Kreş: Kreş Yönetim",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_65",
+  "files": [
+   "img/portfoy/6787953046_0.jpg",
+   "img/portfoy/6787953046_1.jpg",
+   "img/portfoy/6787953046_2.jpg"
+  ]
+ },
+ {
+  "id": "6771413975",
+  "name": "Ezan Vakti: Namaz & Kıble",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_65",
+  "files": [
+   "img/portfoy/6771413975_0.jpg",
+   "img/portfoy/6771413975_1.jpg",
+   "img/portfoy/6771413975_2.jpg"
+  ]
+ },
+ {
+  "id": "6806579014",
+  "name": "Baldiyarı",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6806579014_0.jpg",
+   "img/portfoy/6806579014_1.jpg",
+   "img/portfoy/6806579014_2.jpg"
+  ]
+ },
+ {
+  "id": "6785786626",
+  "name": "Stokxpro: Stok ve Cari Takip",
+  "platform": "MAC_OS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_DESKTOP",
+  "files": [
+   "img/portfoy/6785786626_0.jpg",
+   "img/portfoy/6785786626_1.jpg",
+   "img/portfoy/6785786626_2.jpg"
+  ]
+ },
+ {
+  "id": "6807434798",
+  "name": "MeditoMe: Meditasyon Nefes",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPHONE_67",
+  "files": [
+   "img/portfoy/6807434798_0.jpg",
+   "img/portfoy/6807434798_1.jpg",
+   "img/portfoy/6807434798_2.jpg"
+  ]
+ },
+ {
+  "id": "6807046492",
+  "name": "Cleanner: Depolama & PDF Pro",
+  "platform": "IOS",
+  "state": "READY_FOR_SALE",
+  "type": "APP_IPAD_PRO_3GEN_129",
+  "files": [
+   "img/portfoy/6807046492_0.jpg",
+   "img/portfoy/6807046492_1.jpg"
+  ]
+ }
+]
